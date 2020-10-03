@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class DateFormatTextDemo {
     public static void main(String[] args) throws ParseException {
         Text_1();
+        Text_1();
     }
 
     public static void Text_1() throws ParseException {
